@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Deploy a Static Jekyll Website to Github Pages from Windows 10"
-date:   2019-05-17 2019-05-17T15:20:00Z
+date:   2019-05-17T15:20:00Z
 categories: how-to
 ---
 
